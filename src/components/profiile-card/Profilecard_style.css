@@ -1,0 +1,8 @@
+.Profile-card{
+    border: 1px solid black;
+    width: 150px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 6px;
+    box-sizing: border-box;
+}
